@@ -1,5 +1,5 @@
 - 👋 Hi there, my name is Pedro Mota and I'm 18 years old
-- 👀 I love playng games and watching anime
+- 👀 LoL
 
 - 🌱 I’m currently learning Python Basics
 - 💞️ And I'm loving it
